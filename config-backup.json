@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T16:35:04.805Z",
+  "timestamp": "2025-12-20T16:46:58.653Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -84,7 +84,7 @@
       "allow-extension-installation": "true",
       "looking-glass-history": "@as []",
       "development-tools": "true",
-      "favorite-apps": "['firefox_firefox.desktop', 'org.gnome.Nautilus.desktop', 'snap-store_snap-store.desktop', 'steam.desktop', 'org.openrgb.OpenRGB.desktop', 'org.gnome.Settings.desktop']"
+      "favorite-apps": "['firefox_firefox.desktop', 'org.gnome.Nautilus.desktop', 'snap-store_snap-store.desktop', 'steam.desktop', 'org.openrgb.OpenRGB.desktop', 'org.gnome.Settings.desktop', 'opendeck.desktop']"
     },
     "org.gnome.mutter": {
       "workspaces-only-on-primary": "false",
@@ -331,6 +331,37 @@
       "no-show-notifications": "false",
       "end-system-uids": "500",
       "show-apport-crashes": "true"
+    },
+    "org.gnome.desktop.background": {
+      "picture-options": "'zoom'",
+      "picture-uri-dark": "'file:///usr/share/backgrounds/Flash_and_Thunder_by_Julian_Tomasini.jpg'",
+      "show-desktop-icons": "true",
+      "picture-uri": "'file:///usr/share/backgrounds/Flash_and_Thunder_by_Julian_Tomasini.jpg'",
+      "color-shading-type": "'solid'",
+      "picture-opacity": "100",
+      "secondary-color": "'#000000'",
+      "primary-color": "'#000000'"
+    },
+    "org.gnome.desktop.screensaver": {
+      "ubuntu-lock-on-suspend": "true",
+      "color-shading-type": "'solid'",
+      "embedded-keyboard-command": "''",
+      "user-switch-enabled": "true",
+      "embedded-keyboard-enabled": "false",
+      "status-message-enabled": "true",
+      "show-full-name-in-top-bar": "true",
+      "logout-command": "''",
+      "picture-uri": "'file:///usr/share/backgrounds/Flash_and_Thunder_by_Julian_Tomasini.jpg'",
+      "idle-activation-enabled": "true",
+      "lock-enabled": "true",
+      "logout-enabled": "false",
+      "primary-color": "'#000000'",
+      "logout-delay": "uint32 7200",
+      "picture-opacity": "100",
+      "picture-options": "'zoom'",
+      "lock-delay": "uint32 1800",
+      "restart-enabled": "false",
+      "secondary-color": "'#000000'"
     }
   }
 }
