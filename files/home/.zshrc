@@ -8,6 +8,9 @@
 # ----------------------------
 export ZSH="$HOME/.oh-my-zsh"
 
+# pipx env vari #
+export PATH="$PATH:/home/shorty/.local/bin"
+
 # Disable OMZ theme (Starship handles the prompt)
 ZSH_THEME=""
 
@@ -60,6 +63,3 @@ fi
 
 clear
 neofetch
-
-# Created by `pipx` on 2025-12-15 19:17:18
-export PATH="$PATH:/home/shorty/.local/bin"
