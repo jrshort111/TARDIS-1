@@ -71,7 +71,7 @@ class TARDISGUI(QWidget):
         self.timer.start(1000)
 
         # Target player
-        self.target_player = "chromium.instance131033"
+        self.target_player = "chromium.instance7682"
 
         # Album cache
         self.album_cache = "/tmp/tardis_album.jpg"
