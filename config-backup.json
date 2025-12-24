@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T19:44:05.749Z",
+  "timestamp": "2025-12-24T19:48:21.407Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -84,7 +84,7 @@
       "allow-extension-installation": "true",
       "looking-glass-history": "@as []",
       "development-tools": "true",
-      "favorite-apps": "['firefox_firefox.desktop', 'opendeck.desktop', 'org.gnome.Nautilus.desktop', 'snap-store_snap-store.desktop', 'steam.desktop', 'org.openrgb.OpenRGB.desktop', 'org.gnome.Settings.desktop']"
+      "favorite-apps": "['firefox_firefox.desktop', 'youtube-music-desktop-app.desktop', 'opendeck.desktop', 'org.gnome.Nautilus.desktop', 'snap-store_snap-store.desktop', 'steam.desktop', 'org.openrgb.OpenRGB.desktop', 'org.gnome.Settings.desktop']"
     },
     "org.gnome.mutter": {
       "workspaces-only-on-primary": "false",
