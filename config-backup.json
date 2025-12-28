@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T15:39:13.893Z",
+  "timestamp": "2025-12-28T18:24:17.909Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -324,7 +324,7 @@
     },
     "com.ubuntu.update-notifier": {
       "regular-auto-launch-interval": "7",
-      "release-check-time": "uint32 1765736088",
+      "release-check-time": "uint32 1766946252",
       "hide-reboot-notification": "false",
       "notify-ubuntu-advantage-available": "true",
       "show-livepatch-status-icon": "true",
